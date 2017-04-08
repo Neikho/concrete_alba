@@ -1,12 +1,12 @@
 <?php 
 /* Cachekey: cache/stash_default/zend/zend_feed_reader_15acfb153c80594fc2e3686f35bf91d8/ */
 /* Type: array */
-/* Expiration: 2017-04-02T01:22:05+02:00 */
+/* Expiration: 2017-04-13T10:08:08+02:00 */
 
 
 
 $loaded = true;
-$expiration = 1491088925;
+$expiration = 1492070888;
 
 $data = array();
 
@@ -18,6 +18,22 @@ $data['return'] = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
     <description>Tutorials RSS feed.</description>
     <generator>Zend_Feed_Writer 2 (http://framework.zend.com)</generator>
     <link>https://documentation.concrete5.org/</link>
+    <item>
+      <title>How to create rich text editor snippets</title>
+      <description><![CDATA[Learn how to create and package rich text editor snippets]]></description>
+      <pubDate>Tue, 04 Apr 2017 06:16:57 +0000</pubDate>
+      <link>https://documentation.concrete5.org/tutorials/how-to-create-rich-text-editor-snippets</link>
+      <guid>https://documentation.concrete5.org/tutorials/how-to-create-rich-text-editor-snippets</guid>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Easily scope/namespace theme and block CSS using Less and Sass to prevent CSS conflicts</title>
+      <description><![CDATA[Learn how to scope/namespace your theme and block CSS using Less and Sass to prevent CSS conflicts.]]></description>
+      <pubDate>Fri, 31 Mar 2017 23:21:25 +0000</pubDate>
+      <link>https://documentation.concrete5.org/tutorials/easily-scopenamespace-theme-and-block-css-using-less-and-sass-to-prevent-css-conflicts</link>
+      <guid>https://documentation.concrete5.org/tutorials/easily-scopenamespace-theme-and-block-css-using-less-and-sass-to-prevent-css-conflicts</guid>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Disable Welcome Screen in version 8+</title>
       <description><![CDATA[Disable the welcome screen on login to reduce the login time big time.]]></description>
@@ -162,25 +178,9 @@ $data['return'] = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
       <guid>https://documentation.concrete5.org/tutorials/how-set-file-manager-page-results</guid>
       <slash:comments>0</slash:comments>
     </item>
-    <item>
-      <title>How to upload a pdf</title>
-      <description><![CDATA[How to upload a pdf into concrete5]]></description>
-      <pubDate>Fri, 29 Apr 2016 17:15:43 +0000</pubDate>
-      <link>https://documentation.concrete5.org/tutorials/how-upload-pdf</link>
-      <guid>https://documentation.concrete5.org/tutorials/how-upload-pdf</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>How to create a 404 page - Page Not Found</title>
-      <description><![CDATA[How to make a custom 404 page]]></description>
-      <pubDate>Fri, 29 Apr 2016 16:00:44 +0000</pubDate>
-      <link>https://documentation.concrete5.org/tutorials/how-create-404-page-page-not-found</link>
-      <guid>https://documentation.concrete5.org/tutorials/how-create-404-page-page-not-found</guid>
-      <slash:comments>0</slash:comments>
-    </item>
   </channel>
 </rss>
 ";
 
 /* Child Type: integer */
-$data['createdOn'] = 1490700241;
+$data['createdOn'] = 1491657768;
