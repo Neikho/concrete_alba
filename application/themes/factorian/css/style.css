@@ -1,0 +1,97 @@
+/* BALISES */
+body
+{
+  padding-top: 40px;
+}
+img.img-responsive
+{
+  margin-right: 10px;
+}
+
+/* CLASSES */
+.fondBlack
+{
+  background-color: black;
+}
+.colorWhite
+{
+  color: white;
+}
+.textCenter
+{
+  text-align: center;
+}
+.paragrapheBreak
+{
+  text-align: justify;;
+  word-wrap: break-word;
+  width:80%;
+}
+.inlineB
+{
+  display: inline-block;
+  text-align: justify;
+  width: 200px;
+  height: 200px;
+  margin: 15px;
+}
+.row
+{
+  margin-top: 20px;
+}
+.colonnes
+{
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+.nav li
+{
+  display: inline-block;
+}
+ul.nav
+{
+  float: left;
+}
+
+/* IDS */
+#ctaButton
+{
+  margin-left: 540px;
+}
+#ctaTxt
+{
+  color: white;
+  margin-left: 130px;
+}
+#CTA
+{
+  height: 50px;
+  padding-top: 15px;
+}
+#search
+{
+  margin-top:4px;
+}
+#slider
+{
+  position: relative;
+  z-index: 1;
+}
+#overslide
+{
+  text-align: left;
+  color: white;
+  position: absolute;
+  z-index: 15;
+  margin-top: -325px;
+  margin-left: 500px;
+}
+#download
+{
+  color: black;
+}
+#ccm-layout-column-wrapper-18 div.ccm-layout-column
+{
+  margin-top: -20px;
+}
